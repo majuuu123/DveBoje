@@ -1,0 +1,5 @@
+[http]
+	proxy = https://ftn.proxy:8000
+[user]
+	name = majuuu123
+	email = vojingalic03@gmail.com

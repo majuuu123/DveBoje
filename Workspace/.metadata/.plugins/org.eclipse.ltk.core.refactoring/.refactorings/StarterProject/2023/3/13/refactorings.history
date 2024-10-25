@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;geometry.Donut.innerRadius&apos; in &apos;geometry.Donut&apos;&#x0D;&#x0A;- Original project: &apos;StarterProject&apos;&#x0D;&#x0A;- Original element: &apos;geometry.Donut.innerRadius&apos;&#x0D;&#x0A;- Getter method name: &apos;getInnerRadius&apos;&#x0D;&#x0A;- Setter method name: &apos;setInnerRadius&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;innerRadius&apos;" flags="589830" getter="getInnerRadius" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;geometry{Donut.java[Donut^innerRadius" insertion="2" setter="setInnerRadius" stamp="1679927404557" version="1.0" visibility="1"/>
+</session>
